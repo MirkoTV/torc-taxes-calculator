@@ -1,3 +1,6 @@
+This is the resolution for the ruby assessment.
+Please let me know if you need more information about how to run this.
+
 # Ruby Version
 - 2.6
 
